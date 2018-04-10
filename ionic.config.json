@@ -1,0 +1,8 @@
+{
+  "name": "MyLoginScreen",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
